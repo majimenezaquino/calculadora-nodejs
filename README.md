@@ -1,0 +1,1 @@
+Esto es para explicar el funcionamiento de git
